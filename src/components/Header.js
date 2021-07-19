@@ -9,7 +9,7 @@ const Header = () => {
 
   const [{basket}, dispatch] = useStateValue();
 
-
+ 
   return (
     <div className="header">
       <Link to='/'>
